@@ -1,0 +1,28 @@
+_repo: Illuminated-Manuscripts_19870
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bradley, John William
+    alias: Bradley, J. W. (John William)
+    birthdate: 1830
+    deathdate: 1916
+    gutenberg_agent_id: '8931'
+    url: http://www.gutenberg.org/2009/agents/8931
+description: ''
+gutenberg_bookshelf: Art
+gutenberg_issued: '2006-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19870'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Illumination of books and manuscripts'
+- !lcc 'ND'
+title: Illuminated Manuscripts
+url: http://www.gutenberg.org/ebooks/19870
